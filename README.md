@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Lucia Chu 👋</h1>
 
 <p align="center">
-  Senior CS student at <b>Rutgers University (Honors College)</b><br/>
+  Senior CS student at <b> HC Rutgers University</b><br/>
   with a <b>Math minor</b>.
 </p>
 
