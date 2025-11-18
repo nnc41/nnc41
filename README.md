@@ -1,16 +1,7 @@
 # Hi, I'm Lucia Chu 👋
 
-Senior **Computer Science** student at **Rutgers University–Camden**,  
-with a **Math minor** and part of the **Honors College**.
-
----
-
-## 🎓 About
-
-- Senior CS @ Rutgers–Camden  
-- Math minor  
-- Honors College  
-- Enjoy working on web apps, small systems projects, and problem solving
+Senior **CS** student at **Honor College Rutgers University**,  
+with a **Math minor**
 
 ---
 
